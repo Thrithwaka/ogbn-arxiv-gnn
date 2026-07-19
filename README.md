@@ -104,11 +104,11 @@ streamlit run dashboard/app.py
 
 | Name | Focus Area |
 |------|------------|
-| [Aadhil] (https://github.com/AadhilAslam88) | Tensor operations & foundations |
-| [Thilani] (https://github.com/45670945)| Graph analysis & data pipeline |
-| [Thrithwaka] (https://github.com/Thrithwaka) | GNN model development |
-| [Navodya] (https://github.com/NavodyaRupasinghe2003) | Training, optimization & evaluation |
-| [Kaveesha] () | Explainability & dashboard |
+| [Aadhil](https://github.com/AadhilAslam88) | Tensor operations & foundations |
+| [Thilani](https://github.com/45670945)| Graph analysis & data pipeline |
+| [Thrithwaka](https://github.com/Thrithwaka) | GNN model development |
+| [Navodya](https://github.com/NavodyaRupasinghe2003) | Training, optimization & evaluation |
+| [Kaveesha]() | Explainability & dashboard |
 
 See [`CONTRIBUTORS.md`](./CONTRIBUTORS.md) for detailed ownership and the
 contribution workflow.
