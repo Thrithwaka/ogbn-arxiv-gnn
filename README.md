@@ -108,7 +108,7 @@ streamlit run dashboard/app.py
 | [Thilani](https://github.com/ThilaniDilmani)| Graph analysis & data pipeline |
 | [Thrithwaka](https://github.com/Thrithwaka) | GNN model development |
 | [Navodya](https://github.com/NavodyaRupasinghe2003) | Training, optimization & evaluation |
-| [Kaveesha]() | Explainability & dashboard |
+| [Kaveesha](https://github.com/Kaveesha23dil) | Explainability & dashboard |
 
 See [`CONTRIBUTORS.md`](./CONTRIBUTORS.md) for detailed ownership and the
 contribution workflow.
